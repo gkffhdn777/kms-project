@@ -5,6 +5,6 @@ package kms.com.jpa.domain;
  */
 public enum OrderStatus {
 
-    ORDER, CANCEL
+    ORDERs, CANCEL
 
 }
